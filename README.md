@@ -51,6 +51,11 @@ python trading_simulator.py
 
 - *For Windows users: Run trading_simulator.exe by double-clicking it.*
 
+## License
+This project is open-source and free to use for educational and personal purposes.
+
+## Contact
+For questions or suggestions, please open an issue or contact me.
 
 
-
+**Thank you for checking out this educational simulator! Happy learning 📈**
