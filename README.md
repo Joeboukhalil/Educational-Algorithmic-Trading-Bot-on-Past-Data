@@ -39,9 +39,9 @@ python trading_simulator.py
 
 
 ## 4. Disclaimer
-** *⚠️ This project is for educational purposes only.* **
-** *The Buy, Sell, and Hold signals are generated using simple, random-based logic on simulated past data. This is not financial advice.* **
-** *Please consult a licensed financial advisor before making any investment decisions.* **
+**⚠️ This project is for educational purposes only.**
+**The Buy, Sell, and Hold signals are generated using simple, random-based logic on simulated past data. This is not financial advice.**
+**Please consult a licensed financial advisor before making any investment decisions.**
 
 
 ## 5. How to Use
