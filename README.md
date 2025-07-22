@@ -39,12 +39,12 @@ python trading_simulator.py
 
 
 ## Disclaimer
-* ⚠️ This project is for educational purposes only.
-The Buy, Sell, and Hold signals are generated using simple, random-based logic on simulated past data. This is not financial advice.
-Please consult a licensed financial advisor before making any investment decisions.*
+*⚠️ This project is for educational purposes only.*
+*The Buy, Sell, and Hold signals are generated using simple, random-based logic on simulated past data. This is not financial advice.*
+*Please consult a licensed financial advisor before making any investment decisions.*
 
 
-How to Use
+## How to Use
 - *For web: Open index.html in your browser and click the "Simulate Trading" button.*
 
 - *For Python: Run the script with Python installed (python trading_simulator.py).*
